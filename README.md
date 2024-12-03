@@ -25,7 +25,20 @@ A partir da página que contém a exibição primária dos dados, o usuário pod
  - preço de compra,
  - preço de venda etc.
 
-Doc: [Avaliação II - PDWA5 - Gabriel Josue - PS3110389.pdf](https://github.com/user-attachments/files/17986448/Avaliacao.II.-.PDWA5.-.Gabriel.Josue.-.PS3110389.pdf)
+<!-- Tecnologias utilizadas no projeto -->
+
+## Tecnologias
+
+<div align="center">
+    <img align="center" alt="Gabriel-PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+    <img  align="center" alt="Gabriel-bootstrap" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+    <img  align="center" alt="Gabriel-css" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img align="center" alt="Gabriel-mysql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Gabriel-xampp" height="45" width="55" src="https://avatars.githubusercontent.com/u/643310?s=48&v=4">
+</div>
+
+
+#### Doc: [Avaliação II - PDWA5 - Gabriel Josue - PS3110389.pdf](https://github.com/user-attachments/files/17986448/Avaliacao.II.-.PDWA5.-.Gabriel.Josue.-.PS3110389.pdf)
 
 
 ## 💻 Layout
